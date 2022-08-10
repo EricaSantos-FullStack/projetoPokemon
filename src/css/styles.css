@@ -63,7 +63,7 @@ body {
     background: blueviolet;
     height: 100%;
     display: flex;
-    flex-direction: column /* elemento um embaixo do outro ao inves de row*/;
+    flex-direction: column; /* elemento um embaixo do outro ao inves de row*/
     justify-content: space-between;
     position: absolute; /*na frente de todo contexto */
     padding: 12px;
